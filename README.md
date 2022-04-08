@@ -3,6 +3,8 @@ Repository of a University project.
 
 First part of lab, 18 March 2022.
 
+Added the second part, 08 April 2022.
+
 This repository is referred to data collected from Regione Lombardia. 
 In detail: 
 
