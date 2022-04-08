@@ -1,4 +1,4 @@
-# DSFB_lab1
+# DSFB_lab
 Repository of a University project.
 
 First part of lab, 18 March 2022.
