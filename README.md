@@ -9,6 +9,8 @@ Added the third part, 20 May 2022.
 
 Added the Presentation Notebook for the Exam, 20 June 2022.
 
+---------------------------------------------------------------------------------------
+
 This repository is referred to data collected from Regione Lombardia. 
 In detail: 
 
