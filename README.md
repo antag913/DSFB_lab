@@ -7,7 +7,7 @@ Added the second part, 08 April 2022.
 
 Added the third part, 20 May 2022.
 
-Added the Presentation Notebook for the Exam, 20 June 2022.
+Added the Final Examination Notebook for the Exam, 20 June 2022.
 
 ---------------------------------------------------------------------------------------
 
